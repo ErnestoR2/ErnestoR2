@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ernesto Reyes. I am a computer science student at CIMAT, Mexico. 
-- 👀 I’m interested in computer science, such as computer vision.  
+- 👀 I’m interested in computer vision and optimal transport theory.
 - 📫 How to reach me: ernesto.reyes@cimat.mx
 
 <!---
