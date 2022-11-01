@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ernesto Reyes. I am a math student at CIMAT, Mexico. 
-- 👀 I’m interested in pure math, such as Commutative Algebra, and computer science. 
-- 🌱 I’m currently learning about machine learning and Quantum Computing.
+- 👋 Hi, I’m Ernesto Reyes. I am a computer science student at CIMAT, Mexico. 
+- 👀 I’m interested in computer science, such as computer vision.  
 - 📫 How to reach me: ernesto.reyes@cimat.mx
 
 <!---
