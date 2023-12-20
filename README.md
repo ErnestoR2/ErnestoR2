@@ -9,7 +9,7 @@ I am a Mathematician and a Computer Science MS at CIMAT, Mexico. I have experien
 *   🌍  I'm based in Mexico
 *   🖥️  See my portfolio at [MyPortafolio](http://github.com/ErnestoR2)
 *   ✉️  You can contact me at [ernesto.reyes@cimat.mx](mailto:ernesto.reyes@cimat.mx)
-*   🚀  I'm currently working on [machine learning/deep learning models for depression detection](http://github.com/ErnestoR2)
+*   🚀  I'm currently working on [machine learning/deep learning models for depression detection using Multimodal data](http://github.com/ErnestoR2)
 *   🧠  I'm learning about Reinforcing Learning
 *   🤝  I'm open to collaborating on interesting NLP projects
 
