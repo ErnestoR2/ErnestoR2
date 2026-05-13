@@ -1,10 +1,10 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Ernesto Reyes
 =====================================================================================================================================
 
-Data Scientist · MSc in Computer Science & Industrial Mathematics
-------------------------------------------------------------------
+Data Scientist · NLP & LLM Systems · MSc in Computer Science & Industrial Mathematics
+---------------------------------------------------------------------------------------
 
-I am a Mathematician and Computer Science MS graduate from CIMAT, Mexico. I specialize in NLP and LLM-based systems, with experience building end-to-end AI solutions — from data collection and preprocessing to model development, deployment, and production systems. My background spans both research (deep learning for clinical NLP) and industry (scalable pipelines, LLM agents, and cloud infrastructure). I'm skilled at transforming large-scale structured and unstructured data into actionable insights across different domains.
+I am a Mathematician and Computer Science MS graduate from CIMAT, Mexico. I specialize in NLP and LLM-based systems, with experience building end-to-end AI solutions — from data collection and preprocessing to model development, deployment, and production systems. My background spans both research (deep learning for clinical NLP) and industry (scalable pipelines, LLM agents, and cloud infrastructure). I'm skilled at transforming large-scale structured and unstructured data into actionable insights across different domains. My core skills include: Machine learning models • Deep learning models • Natural Language Processing • LLM-based systems • Data processing • Data analysis • Python programming.
 
 - 🌍 Based in Mexico
 - 🏢 Currently working at **Dinamic Company** as Data Scientist
